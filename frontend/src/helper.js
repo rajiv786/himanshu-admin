@@ -1,0 +1,1 @@
+export const Api_url = "https://bmvmf3gstv.ap-south-1.awsapprunner.com";
